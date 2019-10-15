@@ -1,0 +1,21 @@
+table{
+text-align: center;
+    width: 600px;
+   margin: 0 auto;
+   height: 300px;
+   color:white;
+  
+   font-weight: bold;
+   border:5px solid black;
+}
+thead{
+    width: 100%;
+    background-color: black;
+    visibility: hidden;
+    height: 50px;
+}
+td,th{
+    background-color: #191970;
+    
+}
+
